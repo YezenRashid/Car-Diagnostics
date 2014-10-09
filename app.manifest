@@ -1,0 +1,12 @@
+{
+    "id"          : "status",
+    "name"        : "MyStatus",
+    "css"         : [ "appStylesheet.css" ],
+    "controller"  : "appController.js",
+    "view"        : "appView.js",
+    "template"    : "appLayout.html",
+    "permissions" : [ "Telematics.WHEN_ACTIVE"],
+    "categoryId"  : "VEHICLE",
+    "date"        : "2014-09-13",
+    "version"     : "1.0.0"
+}

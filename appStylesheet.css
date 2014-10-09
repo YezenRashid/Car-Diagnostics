@@ -1,0 +1,14 @@
+/* Use this CSS file to define the styling for your application */
+p, span {
+	margin: 0;
+}
+body {
+	font-size: 20pt;
+}
+#column1 {
+	float: left;
+}
+
+#column2 {
+	float: right;
+}
